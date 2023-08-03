@@ -14,7 +14,7 @@ h3 {
 }
 
 p {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 body, html {
@@ -69,11 +69,12 @@ body, html {
     text-align: center; 
 }
 
-.conteudo-titulo span.titulo {
+.conteudo-titulo .titulo {
     background-color: #111;
     padding: 18px;
     font-size: 25px;
     letter-spacing: 5px;
+    margin-top: 70px;
     color: #fff;
     text-transform: uppercase;
 }
